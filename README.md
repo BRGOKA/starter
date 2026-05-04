@@ -10,7 +10,7 @@ Nothing crazy just basic ![React](https://img.shields.io/badge/react-%2320232a.s
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/Far-Away.git
+   git clone https://github.com/BRGOKA/Far-Away.git
    cd Far-Away
    ```
 
