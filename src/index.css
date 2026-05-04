@@ -88,7 +88,6 @@ input {
   gap: 3.2rem;
   align-items: center;
 }
-
 .actions button,
 .list select {
   text-transform: uppercase;
@@ -99,6 +98,7 @@ input {
 }
 
 .list ul {
+  scrollbar-width: none;
   list-style: none;
   width: 80%;
   overflow: scroll;
